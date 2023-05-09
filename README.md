@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello! I'm Fabiana Lima
 
-<!--
-**FabianaLLima/FabianaLLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently looking for my first opportunity in the area
+- 🌱 I’m currently learning Swift
+-  Pronouns: She/her
+<div>
+<a href-"http://github.com/FabianaLLima
+  <img height-"180cm" src="https://githubu-readme-stats.vencel.app/api?username-FabianaLLima&show_icons-true&theme-dracula&include_all_commmits-true&count_private-true/">
+  <img align"-"180cm" src="https://githubu-readme-stats.vencel.app/api/top-langs/?username-FabianaLLima&layout-compact&langs_count-16theme-dracula"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
