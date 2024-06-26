@@ -12,7 +12,7 @@
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=c8a2c8)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## Github Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianaLLima&show_icons=true&theme=radical)
